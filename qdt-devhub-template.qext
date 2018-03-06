@@ -1,0 +1,14 @@
+{
+	"type": "mashup",
+	"name": "qdt-devhub-template",
+	"description": "Basic responsive mashup template",
+	"version": "1.0.0",
+	"author": "Qlik Demo Team",
+	"homepage": "https://github.com/qlik-demo-team/qdt-devhub-template",
+	"keywords": "qlik-sense, visualization, mashup",
+	"license": "MIT",
+	"repository": "https://github.com/qlik-demo-team/qdt-devhub-template",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
