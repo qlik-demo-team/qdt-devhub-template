@@ -1,3 +1,5 @@
+![Banner](banner_extension.jpg "Banner") 
+
 # Qlik Sense Desktop Dev-hub template for the [qdt-components](https://github.com/qlik-demo-team/qdt-components)
 
 A simple template to use the qdt-components in Qlik Sense desktop dev-hub
